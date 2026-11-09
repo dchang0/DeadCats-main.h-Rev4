@@ -1,0 +1,1 @@
+This is not my creation! This is a copy of Captain Credible's original source code for the generative track main.h on his Dead Cats EP. This is meant to be compiled and uploaded to an ATtiny85-20PU running 16Mhz internal clock using Arduino IDE.
